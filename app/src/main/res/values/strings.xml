@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parser</string>
+    <string name="title_main">Select a country</string>
+    <string name="select_place">Select place to get more information</string>
+</resources>
